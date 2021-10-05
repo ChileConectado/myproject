@@ -77,8 +77,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'enlazarweb',
-        'USER': 'esigner'
-        'PASSWORD': ''
+        'USER': 'esigner',
+        'PASSWORD': '',
     }
 }
 
